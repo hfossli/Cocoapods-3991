@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09CB8273-F02F-4DD4-889B-34136E148844</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ACME</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8D476CC817C5C24A0CB499E3056B70723F2D11B1</key>
+		<string>github.com:hfossli/Cocoapods-3991.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ACME/ACME.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8D476CC817C5C24A0CB499E3056B70723F2D11B1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:hfossli/Cocoapods-3991.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D476CC817C5C24A0CB499E3056B70723F2D11B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D476CC817C5C24A0CB499E3056B70723F2D11B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocoapods</string>
+		</dict>
+	</array>
+</dict>
+</plist>
