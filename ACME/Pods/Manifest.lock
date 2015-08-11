@@ -1,0 +1,140 @@
+PODS:
+  - ACMECore (1.5):
+    - AFNetworking (= 2.5.1)
+    - AGGeometryKit (= 1.1)
+    - ALSystemUtilities (= 1.3.4)
+    - ARSafariActivity
+    - BlocksKit/Core (= 2.2.5)
+    - BlocksKit/UIKit (= 2.2.5)
+    - CargoBay (= 2.1.0)
+    - CocoaLumberjack (= 1.9.2)
+    - EDColor (= 1.0.0)
+    - FMDB (= 2.5)
+    - FXKeychain (= 1.5.2)
+    - FXReachability (= 1.3)
+    - GBDeviceInfo (= 2.2.9)
+    - HockeySDK (= 3.6.2)
+    - iCarousel (= 1.8.1)
+    - JLRoutes (= 1.5.1)
+    - JSONModel (= 1.0.2)
+    - NSLogger-CocoaLumberjack-connector (= 1.3)
+    - pop (= 1.0.7)
+    - ReactiveCocoa (= 2.4.7)
+    - RNCryptor (= 2.2)
+    - SSZipArchive
+    - UISS (= 1.1.1)
+  - AFNetworking (2.5.1):
+    - AFNetworking/NSURLConnection (= 2.5.1)
+    - AFNetworking/NSURLSession (= 2.5.1)
+    - AFNetworking/Reachability (= 2.5.1)
+    - AFNetworking/Security (= 2.5.1)
+    - AFNetworking/Serialization (= 2.5.1)
+    - AFNetworking/UIKit (= 2.5.1)
+  - AFNetworking/NSURLConnection (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.1)
+  - AFNetworking/Security (2.5.1)
+  - AFNetworking/Serialization (2.5.1)
+  - AFNetworking/UIKit (2.5.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AGAssert (1.0)
+  - AGGeometryKit (1.1):
+    - AGGeometryKit/Default (= 1.1)
+  - AGGeometryKit/Core (1.1)
+  - AGGeometryKit/Default (1.1):
+    - AGGeometryKit/Core
+    - AGGeometryKit/Dependencies
+  - AGGeometryKit/Dependencies (1.1):
+    - AGAssert (~> 1.0)
+    - JRSwizzle (~> 1.0)
+  - ALSystemUtilities (1.3.4):
+    - ALSystemUtilities/no-arc (= 1.3.4)
+  - ALSystemUtilities/no-arc (1.3.4)
+  - ARSafariActivity (0.0.3)
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - CargoBay (2.1.0):
+    - AFNetworking (~> 2.2)
+  - CocoaLumberjack (1.9.2):
+    - CocoaLumberjack/Extensions (= 1.9.2)
+  - CocoaLumberjack/Core (1.9.2)
+  - CocoaLumberjack/Extensions (1.9.2):
+    - CocoaLumberjack/Core
+  - EDColor (1.0.0)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FXKeychain (1.5.2)
+  - FXReachability (1.3)
+  - GBDeviceInfo (2.2.9)
+  - HockeySDK (3.6.2)
+  - iCarousel (1.8.1)
+  - JLRoutes (1.5.1)
+  - JRSwizzle (1.0)
+  - JSONModel (1.0.2)
+  - NSLogger (1.5.1):
+    - NSLogger/Standard (= 1.5.1)
+  - NSLogger-CocoaLumberjack-connector (1.3):
+    - CocoaLumberjack
+    - NSLogger
+  - NSLogger/Standard (1.5.1)
+  - pop (1.0.7)
+  - ReactiveCocoa (2.4.7):
+    - ReactiveCocoa/UI (= 2.4.7)
+  - ReactiveCocoa/Core (2.4.7):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.4.7)
+  - ReactiveCocoa/UI (2.4.7):
+    - ReactiveCocoa/Core
+  - RNCryptor (2.2)
+  - SSZipArchive (0.3.2)
+  - UISS (1.1.1)
+
+DEPENDENCIES:
+  - ACMECore (from `../ACMECore/ACMECore.podspec`)
+
+EXTERNAL SOURCES:
+  ACMECore:
+    :path: ../ACMECore/ACMECore.podspec
+
+SPEC CHECKSUMS:
+  ACMECore: 38ba4817bfaaf9d48d2ed464a0bf58f5d10fae89
+  AFNetworking: 10e85a00bb0f475124e4ff2677bf15693b2c1523
+  AGAssert: 3162d40b88ddb9e58d9e42fc723b0b6a2ed74b01
+  AGGeometryKit: 7d3c83f0d699211a8c751dfc2214776964a65447
+  ALSystemUtilities: 6c86eaf579e18ceb5267ca7c856652b377deb996
+  ARSafariActivity: dc358220eae06afe83e7ca0b21ca1b862ef8ae81
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  CargoBay: 3afad56937d51596f081e38d2a7829835fefab06
+  CocoaLumberjack: 628fca2e88ef06f7cf6817309aa405f325d9a6fa
+  EDColor: c83f9a61f9f9b3c23d541f1feb561558e29cb088
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  FXKeychain: 1a711bddc04a2bd69850dcfe297b8a43027a9980
+  FXReachability: fc1ea418e5db48cc3e0dd7748f7baf80b144f50f
+  GBDeviceInfo: 3f3ad4591a31bc96ad2de5b2e9bee9d65136c145
+  HockeySDK: 51ade1aff04463137e852797d2eb4dfb2511d6a9
+  iCarousel: dace1cb858e3f4dc2614bee3201041247f82feda
+  JLRoutes: eececedd8c3f1f040209520f783e12049674416e
+  JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
+  JSONModel: 6ffcb4ffa3659c9e9a2e5d45d6c7705bab187c03
+  NSLogger: 5ed223a2436df96244e033be750656dacdeec034
+  NSLogger-CocoaLumberjack-connector: 075f822e06393495fb4b90c814ea986b794a00a2
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  ReactiveCocoa: eb38dee0a0e698f73a9b25e5c1faea2bb4c79240
+  RNCryptor: c68678461a2c7474a55db9a6a98834c22d51f535
+  SSZipArchive: 11801759495fa4efb7512ef652eb0042d68305d7
+  UISS: 422cac5e2d70e41218923dd9b20c6df9489bf528
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,123 @@
+/* 
+  Localization.strings
+  IVYCore
+
+  Created by Jørund Almås on 21.05.14.
+  Copyright (c) 2014 IVY AS. All rights reserved.
+*/
+
+"articles" = "artikler";
+"article" = "artikkel";
+"Issue Archive" = "Utgavearkiv";
+"Subscriptions" = "Abonnement";
+"Latest issue:" = "Siste utgave:";
+
+/* General */
+"Error" = "Feil";
+
+/* Subscription */
+"Go to your iTunes account" = "Gå til din iTunes-konto";
+"Fetching product..." = "Henter produkt...";
+"No active subscriptions" = "Ingen aktive abonnement";
+"Enter username & password" = "Skriv inn brukernavn og passord";
+"Login" = "Logg inn";
+"Cancel" = "Avbryt";
+"Login %@" = "Logg inn med %@";
+"Logged in" = "Logget inn";
+"You are now logged in" = "Du er nå logget inn";
+"Not logged on" = "Ikke logget inn";
+"Go to your %@-account" = "Gå til din %@-konto";
+"Error when fetching product" = "Feil ved henting av produkt";
+"Share" = "Del";
+"Favorite" = "Favoritt";
+"Unfavorite" = "Fjern fra favoritt";
+"Refresh" = "Last inn på nytt";
+"Tester" = "Tester";
+"Signed in successfully" = "Logget på";
+"You have signed in with %@" = "Du har nå logget på med %@";
+"Login with %@" = "Logg inn med %@";
+"Wrong username or passord" = "Feil brukernavn eller passord";
+"Please try again" = "Vennligst prøv igjen";
+"Signing in" = "Logger på...";
+"Please sign in or get access while reading an article." = "Vennligst logg deg inn, eller kjøp tilgang når du får opp innloggingsvinduet i en artikkel.";
+"Your %@-subscription is administrated\n via your %@ account" = "Dine %@-abonnement administreres\n via din %@-konto.";
+"days" = "dager";
+"Restore %@-purchases" = "Gjenopprette %@-kjøp";
+"Could not restore %@-purchases" = "Kunne ikke gjenopprette %@-kjøp";
+"%@-subscription" = "%@-abonnement";
+"Log out %@" = "Logg ut %@";
+"Settings" = "Innstillinger";
+
+/* Download options in settings */
+"Settings" = "Innstillinger";
+"Favorites" = "Favoritter";
+"Network" = "Nettverk";
+"Use Cellular Data" = "Bruk mobildata";
+"Allows app to use Cellular Data to download issues." = "Bruk mobildata for å laste ned utgaver.";
+"Favorites" = "Favoritter";
+"Available offline" = "Available offline";
+"Toggle \"Available offline\" to download your favorite content for offline use" = "Slå på \"Tilgjengelig offline\" dersom du \nønsker å laste ned ditt favorittinnhold.";
+"Auto-download" = "Automatisk nedlasting";
+"The newest issues will be automatically downloaded and available offline." = "De nyeste utgavene vil bli automatisk nedlastet og \ntilgjengelige når du ikke har nett";
+
+
+/* TOC */
+"Drag for next section" = "Dra for neste seksjon";
+"Release for next section" = "Slipp for neste seksjon";
+
+/* Loading view */
+"Please wait" = "Vennligst vent";
+"Loading content" = "Laster innhold";
+
+/* Failed view */
+"An error occured" = "Det skjedde en feil";
+"We can't fetch any content.\nPlease try again later" = "Vi har problemer med å hente innhold.\nPrøv igjen senere.";
+
+/* Pages */
+"Loading page %i of %i" = "Laster side %i av %i";
+"Loading content..." = "Laster side";
+"Loading framework" = "Laster rammeverk";
+
+/* Issue group view */
+"Downloading..." = "Laster ned...";
+"Moving to offline." = "Flytter til offline.";
+"Download failed. Try again." = "Nedlasting feilet. Prøv igjen.";
+"Available offline." = "Tilgjengelig offline.";
+"Available offline" = "Tilgjengelig offline";
+"No network, download paused." = "Mangler nettverk, nedlasting pauset.";
+"Automatic download" = "Automatisk nedlasting";
+
+"No favorite content" = "Ingen favoritter";
+"Go to an issue you want to save for later. \nPress and hold and mark it as a favorite." = "Trykk og hold fingeren over en utgave for å legge til som favoritt!";
+"NEW" = "NYTT";
+"To save an issue for later, press and hold to favorite it." = "Trykk og hold over en utgave for å legge til som favoritt!";
+"The issue is downloading and will be available offline." = "Utgaven er lagt til som favoritt og blir tilgjengelig offline";
+"Toggle \"Available offline\" to remove the downloaded data from your device" = "Slå av \"Tilgjengelig offline\" for å fjerne\n data fra enheten din.";
+"Toggle \"Available offline\" to download your favorite content for offline use" = "Slå på \"Tilgjengelig offline\" dersom du ønsker å laste ned ditt favorittinnhold";
+
+"Toggle \"Automatic download\" to remove the downloaded data from your device" = "De neste %@ utgavene vil være tilgjengelige offline etter at de automatisk har blitt lastet ned til enheten din.";
+"Make sure to allow \"Background App Refresh\" in the general settings for your device." = "Sørg for å skru på \"Bakgrunnsoppdatering\" under innstillinger på enheten din.";
+"Toggle \"Automatic download\" to automatically download the latest issues for this publication" = "Skru på automatisk nedlastning for å \nlaste ned de neste %@ utgavene til \nenheten din for offline-lesing.";
+"Background App Refresh is Turned Off for" = "Bakgrunnsoppdatering er skrudd av for \"%@\"";
+"You can turn on Background App Refresh for this app in Settings." = "Du kan tillate bakgrunnsoppdatering for denne appen under Innstillinger.";
+
+
+/* Settings */
+
+"Delete all data (calculating size...)" = "Slett alle data (beregner størrelse...)";
+"Delete cache (calculating size...)" = "Slett temporære filer (beregner størrelse...)";
+
+"Delete all data" = "Slett alle data";
+"Delete cache" = "Slett temporære filer";
+
+"Manage storage" = "Administrer lagring";
+"This app caches content temporarily to give you a best possible user experience." = "Denne appen mellomlagrer innhold for å gi deg \nen best mulig brukeropplevelse.";
+"Are you sure you want to delete all data? This will also delete downloaded favorites and deselect the offline storage option." = "Er du sikker på at du ønsker å slette alt nedlastet innhold? Dette vil også slette nedlastede favoritter og slå av offline lagring av favoritter.";
+"Are you sure you want to delete cache?" = "Er du sikker på at du vil slette temporære filer?";
+"Yes" = "Ja";
+"No" = "Nei";
+"Data deleted" = "Data slettet";
+"All data was successfully deleted" = "All data ble slettet";
+"Cache was successfully deleted" = "Temporære filer ble slettet";
+"Favorites available offline" = "Favoritter tilgjengelig offline";
+

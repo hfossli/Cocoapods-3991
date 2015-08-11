@@ -1,0 +1,123 @@
+/* 
+  Localization.strings
+  IVYCore
+
+  Created by Jørund Almås on 21.05.14.
+  Copyright (c) 2014 IVY AS. All rights reserved.
+*/
+
+"articles" = "articles";
+"Issue Archive" = "Issue Archive";
+"Subscriptions" = "Subscriptions";
+"Latest issue:" = "Latest issue:";
+
+/* General */
+"Error" = "Error";
+
+/* Subscription */
+"Go to your iTunes account" = "Go to your iTunes account";
+"Fetching product..." = "Fetching product...";
+"No active subscriptions" = "No active subscriptions";
+"Enter username & password" = "Please enter username & password";
+"Login" = "Login";
+"Cancel" = "Cancel";
+"Login %@" = "Login with %@";
+"Logged in" = "Logged in";
+"You are now logged in" = "You are now logged in";
+"Not logged on" = "Not logged in";
+"Go to your %@-account" = "Go to your %@-account";
+"Error when fetching product" = "Error when fetching product";
+"Tester" = "Tester";
+"Signed in successfully" = "Signed in successfully";
+"You have signed in with %@" = "You have signed in with %@";
+"Login with %@" = "Login with %@";
+"Wrong username or passord" = "Wrong username or passord";
+"Please try again" = "Please try again";
+"Signing in" = "Signing in...";
+"Please sign in or get access while reading an article." = "Please sign in or get access while\nreading an article.";
+"Your %@-subscription is administrated\n via your %@ account" = "You can administrate your %@-subscription\n via your %@ account.";
+"days" = "days";
+"Restore %@-purchases" = "Restore %@-purchases";
+"Could not restore %@-purchases" = "Could not restore %@-purchases";
+"%@-subscription" = "%@-subscription";
+"Log out %@" = "Log out %@";
+
+/* Download options in settings */
+
+"Network" = "Network";
+"Use Cellular Data" = "Use Cellular Data";
+"Allows app to use Cellular Data to download issues." = "Allows app to use Cellular Data to download issues.";
+"Favorites" = "Favorites";
+"Available offline" = "Available offline";
+"Toggle \"Available offline\" to download your favorite content for offline use" = "Turn \"Available offline\" on to download your\nfavorite content for offline use";
+"Auto-download" = "Auto-download";
+"The newest issues will be automatically downloaded and available offline." = "The newest issues will be automatically \ndownloaded and available offline.";
+
+
+/* TOC */
+"Drag for next section" = "Drag to enter next section";
+"Release for next section" = "Release to enter next section";
+
+/* Loading view */
+"Please wait" = "Please wait";
+"Loading content" = "Loading content";
+"Share" = "Share";
+"Favorite" = "Favorite";
+
+/* Failed view */
+"An error occured" = "An error occured";
+"We can't fetch any content.\nPlease try again later" = "We could not retrieve any content.\nPlease try again later.";
+"Unfavorite" = "Unfavorite";
+"Refresh" = "Refresh";
+
+/* Pages */
+"Loading framework" = "Loading content...";
+
+/* Issue group view */
+"Downloading..." = "Downloading...";
+"Moving to offline." = "Moving to offline.";
+"Download failed. Try again." = "Download failed. Try again.";
+"Available offline." = "Available offline.";
+"Available offline" = "Available offline";
+"No network, download paused." = "No network, download paused.";
+"Automatic download" = "Auto-download";
+"Settings" = "Settings";
+"Favorites" = "Favorites";
+"No favorite content" = "No favorite content";
+"Go to an issue you want to save for later. \nPress and hold and mark it as a favorite." = "Go to an issue you want to save for later. \nPress and hold and mark it as a favorite.";
+"NEW" = "NEW";
+"To save an issue for later, press and hold to favorite it." = "To save an issue for later, press and hold to favorite it.";
+"The issue is downloading and will be available offline." = "The issue is downloading and will be available offline.";
+"Toggle \"Available offline\" to remove the downloaded data from your device" = "Turn \"Available offline\" off to remove\n the downloaded data from your device";
+"Toggle \"Available offline\" to download your favorite content for offline use" = "Turn \"Available offline\" on to download your favorite content for offline use";
+"Toggle \"Automatic download\" to remove the downloaded data from your device" = "The next %@ issues will be available offline when they have been downloaded \nto your device.";
+"Make sure to allow \"Background App Refresh\" in the general settings for your device." = "Make sure to allow \"Background App Refresh\" in the general settings for your device.";
+"Toggle \"Automatic download\" to automatically download the latest issues for this publication" = "Turn \"Auto-download\" on to start download the next %@ issues for offline reading.";
+"Background App Refresh is Turned Off for" = "Background App Refresh is Turned Off for \"%@\"";
+"You can turn on Background App Refresh for this app in Settings." = "You can turn on Background App Refresh for this app in Settings.";
+
+
+
+
+
+/* Settings */
+"Delete all data (calculating size...)" = "Delete all data (calculating size...)";
+"Delete cache (calculating size...)" = "Delete cache (calculating size...)";
+"Delete all data" = "Delete all data";
+"Delete cache" = "Delete cache";
+"Manage storage" = "Manage storage";
+"This app caches content temporarily to give you a best possible user experience." = "This app caches content temporarily to give you \na best possible user experience.";
+"Are you sure you want to delete all data? This will also delete downloaded favorites and deselect the offline storage option." = "Are you sure you want to delete all data? This will also delete downloaded favorites and deselect the offline storage option.";
+"Are you sure you want to delete cache?" = "Are you sure you want to delete cache?";
+"Yes" = "Ja";
+"No" = "Nei";
+"Data deleted" = "Data deleted";
+"All data was successfully deleted" = "All data was successfully deleted";
+"Cache was successfully deleted" = "Cache was successfully deleted";
+"Favorites available offline" = "Favorites available offline";
+
+
+
+
+
+
